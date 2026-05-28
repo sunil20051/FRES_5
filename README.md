@@ -1,4 +1,4 @@
-## Simulation study on wind energy generator
+## Simulation study on wind energy generator.
 
 ## Aim:
 
